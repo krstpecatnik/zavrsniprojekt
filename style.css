@@ -6,7 +6,7 @@ body {
 }
 .header {
 	height: 550px;
-	background: url('img/header_bg.JPG') no-repeat;
+	background: url('img/header.png') no-repeat;
 	background-size: cover;
 }
 
